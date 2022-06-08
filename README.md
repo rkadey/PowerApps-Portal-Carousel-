@@ -1,11 +1,13 @@
 # PowerApps-Portal-Carousel-
-# Terms
+### Introduction
+In this project, I implemented carousel slide show in one of the portal apps I built. The idea is to spark the radiance in my website.
 
-## Carousel
+# Terms
+### Carousel
 Carousel Slide indicates a collection or ‘filmstrip’ of images that move in a stepwise or smooth manner around a central axis. In simple terms, it facilitates the display of two or more pictures in a single space on a website.
 The above code helps implement carousel in your PowerApps Portal Apps.
 
-## PowerApps Portal
+### PowerApps Portal
 PowerApps Portal is a tenant of Microsoft Power Platform that allows you to create a powerful new type of experience: external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Microsoft Dataverse, or even browse content anonymously.
 
 # Usage
