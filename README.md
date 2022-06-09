@@ -1,5 +1,6 @@
 # PowerApps-Portal-Carousel-
 ### Introduction
+Building an end to end solution with PowerApps Portal is one thing and giving that solution an artistic design is another. The question is how do you bring out the life in your portal apps website? Well, as easy as it may sound, design is not always easy to come by and designing involves painstaking analysis and multitude of deep dive thoughts.
 In this project, I implemented carousel slide show in one of the portal apps I built. The idea is to spark the radiance in my website.
 
 # Terms
